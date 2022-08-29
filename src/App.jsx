@@ -5,9 +5,11 @@ import Meme from '../Compenents/Meme'
 
 
 export default function App() {
-  <div>
-    <Navbar/>
-    <Meme/>
-  </div>
+  return (
+    <div className='app'>
+      <Navbar />
+      <Meme />
+    </div>
+  )
 
 }
