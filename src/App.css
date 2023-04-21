@@ -86,9 +86,9 @@ border-radius: 5px;
 
 .meme {
   position: relative;
-  /* display: flex;
+  display: flex;
   justify-content: center;
-  align-items: center; */
+  align-items: center;
 }
 
 .meme-image{
@@ -97,7 +97,6 @@ border-radius: 5px;
   /* left:50%; */
   /* top:50%; */
   max-width: 100%;
-  
 }
 
 .meme-text {
